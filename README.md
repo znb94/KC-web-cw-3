@@ -19,7 +19,7 @@
 
 آخر موعد لرفع الكود `git push` هو نهاية المحاضرة "لا تترددون أنكم تسألون المدرسين 👌"
   
-  <a href="https://docs.google.com/document/d/1prQqa34o1v31g8cauz2evtoH7dwy05zHmU78U3DRXjc/edit?usp=sharing" target="_blank">للمساعدة</a>
+  <a href="https://docs.google.com/document/d/1prQqa34o1v31g8cauz2evtoH7dwy05zHmU78U3DRXjc/edit?usp=sharing">للمساعدة</a>
   <hr />
   
 ## تمرين 2
@@ -36,7 +36,7 @@
 
 آخر موعد لرفع الكود `git push` هو نهاية المحاضرة "انتوا قدها 💪"
   
-  <a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit?usp=sharing" target="_blank">للمساعدة</a>
+  <a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit?usp=sharing">للمساعدة</a>
   <hr />
   
 ## تمرين 3
@@ -49,5 +49,5 @@
   
 آخر موعد لرفع الكود `git push` هو نهاية المحاضرة 
   
-  <a href="https://docs.google.com/document/d/11QVBL7J35SeQ3HrlKFG2LgQIMVLAWsPwz0WK6kEmUhk/edit?usp=sharing" target="_blank">للمساعدة</a>
+  <a href="https://docs.google.com/document/d/11QVBL7J35SeQ3HrlKFG2LgQIMVLAWsPwz0WK6kEmUhk/edit?usp=sharing">للمساعدة</a>
 </div>
