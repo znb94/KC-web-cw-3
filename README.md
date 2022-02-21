@@ -39,7 +39,7 @@
   <a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit?usp=sharing" target="_blank">للمساعدة</a>
   <hr />
   
-## تمرين 2
+## تمرين 3
 ### لنستخدم ال Div وننسق نموقعنا بشكل بسيط
 1) أضف صورتين في في مجلد images، واحدة لطعامك المفضل الأول والثانية لطعامك المفضل الثاني
 2) في صفحة food.html استخدم وسم احتواء div تحت قائمة الطعام المفضلة وفوق الرابط ليحتوي على الصورة الأولى والثانية
