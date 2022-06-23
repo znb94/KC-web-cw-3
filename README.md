@@ -1,5 +1,5 @@
 <div dir=rtl>
-<h3><a href="https://github.com/kuwaitcodes/web-cw-1">اليوم الثاني </a></h3></p>
+<h3><a href="https://github.com/kuwaitcodes/web-cw-2">اليوم الثاني </a></h3></p>
 <p dir="rtl">راح نتعلم القائمة المرتبة والغير مرتبة و نبدا مسيرتنا في لغة CSS</p>
 <h1></h1>
 <p dir="rtl">
